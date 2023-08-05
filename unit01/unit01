@@ -1,0 +1,97 @@
+// Task 1.
+console.log('Marina');
+
+// Task 2.
+
+console.log('02');
+
+// Task 3.
+
+console.log('Добро'+ ' '+ 'пожаловать'+ ' ' + 'на курс');
+
+
+// Task 4.
+
+//alert(2019);
+
+
+// Task 5.
+console.log(2019-200);
+
+
+// Task 6.
+
+document.getElementById('six').innerHTML = 'Hello World';
+
+// Task 7.
+
+document.getElementById('seven').innerHTML = 12*12;
+
+// Task 8.
+/
+document.querySelector('.out-8').innerHTML = 'task-8';
+
+// Task 9.
+
+document.querySelector('span.out-8').innerHTML = 'world';
+
+// Task 10.
+
+document.querySelector('.out-10').innerHTML = '<h2>Hi</h2>';
+
+// Task 11.
+ 
+document.querySelector('.out-11').innerHTML = '123';
+ document.querySelector('.out-11').innerHTML += '345';
+
+// Task 12.
+
+let a = document.querySelector('.out-12');
+a.innerHTML = 3.1415;
+
+
+// Task 13.
+
+let out = document.querySelectector('.out-13');
+out.innerHTML = '<img src="https://static.wikia.nocookie.net/villains/images/f/f1/Hello%21.jpg/revision/latest?cb=20160629180417" alt="js">';ht
+
+// Task 14.
+
+let z1 = 6;
+let z2 = 3;
+document.querySelector('.out-14').innerHTML = z1 * z2;
+
+// Task 15.
+
+let y1 = 6;
+let y2 = 3;
+document.querySelector('.out-15').innerHTML = y1 / y2;
+
+// Task 16.
+
+let x1 = 'Hello';
+let x2 = 5;
+document.querySelector('.out-16').innerHTML = x1 + x2;
+
+// Task 17.
+
+let out17 = document.querySelector('.out-17');
+console.log(out17);
+console.dir(out-17);
+
+// Task 18.
+
+let out18 = document.querySelector('.out-18');
+console.log(out18);
+out18 = 5;
+console.log(out18);
+
+// Task 19.
+
+let out19 = document.querySelector('.out-19-test');
+console.log(out19);
+
+// Task 20
+
+let out20 = document.querySelector('.out-20');
+out20.textContent = '<h2>Hi</h2>';
